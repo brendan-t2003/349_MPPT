@@ -1,0 +1,64 @@
+Dependencies for Project 'STM_code', Target 'Target 1': (DO NOT MODIFY !)
+CompilerVersion: 6230000::V6.23::ARMCLANG
+F (.\adc.c)(0x67E29757)(-xc -std=c99 --target=arm-arm-none-eabi -mcpu=cortex-m4 -mfpu=fpv4-sp-d16 -mfloat-abi=hard -c-fno-rtti -funsigned-char -fshort-enums -fshort-wchar-D__EVAL -gdwarf-4 -O0 -ffunction-sections -Wno-packed -Wno-missing-variable-declarations -Wno-missing-prototypes -Wno-missing-noreturn -Wno-sign-conversion -Wno-nonportable-include-path -Wno-reserved-id-macro -Wno-unused-macros -Wno-documentation-unknown-command -Wno-documentation -Wno-license-management -Wno-parentheses-equality -Wno-reserved-identifier-I./RTE/_Target_1-IC:/Users/brend/AppData/Local/Arm/Packs/ARM/CMSIS/6.1.0/CMSIS/Core/Include-IC:/Users/brend/AppData/Local/Arm/Packs/Keil/STM32F3xx_DFP/2.2.2/Drivers/CMSIS/Device/ST/STM32F3xx/Include-D__UVISION_VERSION="542" -DSTM32F303x8 -D_RTE_-o ./objects/adc.o -MMD)
+I (C:\Users\brend\AppData\Local\Arm\Packs\Keil\STM32F3xx_DFP\2.2.2\Drivers\CMSIS\Device\ST\STM32F3xx\Include\stm32f303x8.h)(0x67DB402E)
+I (C:\Users\brend\AppData\Local\Arm\Packs\ARM\CMSIS\6.1.0\CMSIS\Core\Include\core_cm4.h)(0x664C4908)
+I (C:\Users\brend\AppData\Local\Arm\Packs\Keil\STM32F3xx_DFP\2.2.2\Drivers\CMSIS\Device\ST\STM32F3xx\Include\system_stm32f3xx.h)(0x67DB402E)
+I (adc.h)(0x67E29757)
+F (.\leds.c)(0x67E29757)(-xc -std=c99 --target=arm-arm-none-eabi -mcpu=cortex-m4 -mfpu=fpv4-sp-d16 -mfloat-abi=hard -c-fno-rtti -funsigned-char -fshort-enums -fshort-wchar-D__EVAL -gdwarf-4 -O0 -ffunction-sections -Wno-packed -Wno-missing-variable-declarations -Wno-missing-prototypes -Wno-missing-noreturn -Wno-sign-conversion -Wno-nonportable-include-path -Wno-reserved-id-macro -Wno-unused-macros -Wno-documentation-unknown-command -Wno-documentation -Wno-license-management -Wno-parentheses-equality -Wno-reserved-identifier-I./RTE/_Target_1-IC:/Users/brend/AppData/Local/Arm/Packs/ARM/CMSIS/6.1.0/CMSIS/Core/Include-IC:/Users/brend/AppData/Local/Arm/Packs/Keil/STM32F3xx_DFP/2.2.2/Drivers/CMSIS/Device/ST/STM32F3xx/Include-D__UVISION_VERSION="542" -DSTM32F303x8 -D_RTE_-o ./objects/leds.o -MMD)
+I (leds.h)(0x67E29757)
+I (main.h)(0x67E29758)
+I (C:\Users\brend\AppData\Local\Arm\Packs\Keil\STM32F3xx_DFP\2.2.2\Drivers\CMSIS\Device\ST\STM32F3xx\Include\stm32f3xx.h)(0x67DB402E)
+I (C:\Users\brend\AppData\Local\Arm\Packs\Keil\STM32F3xx_DFP\2.2.2\Drivers\CMSIS\Device\ST\STM32F3xx\Include\stm32f303x8.h)(0x67DB402E)
+I (C:\Users\brend\AppData\Local\Arm\Packs\ARM\CMSIS\6.1.0\CMSIS\Core\Include\core_cm4.h)(0x664C4908)
+I (C:\Users\brend\AppData\Local\Arm\Packs\Keil\STM32F3xx_DFP\2.2.2\Drivers\CMSIS\Device\ST\STM32F3xx\Include\system_stm32f3xx.h)(0x67DB402E)
+F (.\main.c)(0x67FCE792)(-xc -std=c99 --target=arm-arm-none-eabi -mcpu=cortex-m4 -mfpu=fpv4-sp-d16 -mfloat-abi=hard -c-fno-rtti -funsigned-char -fshort-enums -fshort-wchar-D__EVAL -gdwarf-4 -O0 -ffunction-sections -Wno-packed -Wno-missing-variable-declarations -Wno-missing-prototypes -Wno-missing-noreturn -Wno-sign-conversion -Wno-nonportable-include-path -Wno-reserved-id-macro -Wno-unused-macros -Wno-documentation-unknown-command -Wno-documentation -Wno-license-management -Wno-parentheses-equality -Wno-reserved-identifier-I./RTE/_Target_1-IC:/Users/brend/AppData/Local/Arm/Packs/ARM/CMSIS/6.1.0/CMSIS/Core/Include-IC:/Users/brend/AppData/Local/Arm/Packs/Keil/STM32F3xx_DFP/2.2.2/Drivers/CMSIS/Device/ST/STM32F3xx/Include-D__UVISION_VERSION="542" -DSTM32F303x8 -D_RTE_-o ./objects/main.o -MMD)
+I (C:\Users\brend\AppData\Local\Arm\Packs\Keil\STM32F3xx_DFP\2.2.2\Drivers\CMSIS\Device\ST\STM32F3xx\Include\stm32f3xx.h)(0x67DB402E)
+I (C:\Users\brend\AppData\Local\Arm\Packs\Keil\STM32F3xx_DFP\2.2.2\Drivers\CMSIS\Device\ST\STM32F3xx\Include\stm32f303x8.h)(0x67DB402E)
+I (C:\Users\brend\AppData\Local\Arm\Packs\ARM\CMSIS\6.1.0\CMSIS\Core\Include\core_cm4.h)(0x664C4908)
+I (C:\Users\brend\AppData\Local\Arm\Packs\Keil\STM32F3xx_DFP\2.2.2\Drivers\CMSIS\Device\ST\STM32F3xx\Include\system_stm32f3xx.h)(0x67DB402E)
+I (adc.h)(0x67E29757)
+I (leds.h)(0x67E29757)
+I (usart.h)(0x67E29758)
+I (systick_delay.h)(0x67E29758)
+I (PLL_Config.h)(0x67E29758)
+I (pwm.h)(0x67E29758)
+F (.\PLL Config STMF3.c)(0x67E29758)(-xc -std=c99 --target=arm-arm-none-eabi -mcpu=cortex-m4 -mfpu=fpv4-sp-d16 -mfloat-abi=hard -c-fno-rtti -funsigned-char -fshort-enums -fshort-wchar-D__EVAL -gdwarf-4 -O0 -ffunction-sections -Wno-packed -Wno-missing-variable-declarations -Wno-missing-prototypes -Wno-missing-noreturn -Wno-sign-conversion -Wno-nonportable-include-path -Wno-reserved-id-macro -Wno-unused-macros -Wno-documentation-unknown-command -Wno-documentation -Wno-license-management -Wno-parentheses-equality -Wno-reserved-identifier-I./RTE/_Target_1-IC:/Users/brend/AppData/Local/Arm/Packs/ARM/CMSIS/6.1.0/CMSIS/Core/Include-IC:/Users/brend/AppData/Local/Arm/Packs/Keil/STM32F3xx_DFP/2.2.2/Drivers/CMSIS/Device/ST/STM32F3xx/Include-D__UVISION_VERSION="542" -DSTM32F303x8 -D_RTE_-o "./objects/pll config stmf3.o" -MMD)
+I (C:\Users\brend\AppData\Local\Arm\Packs\Keil\STM32F3xx_DFP\2.2.2\Drivers\CMSIS\Device\ST\STM32F3xx\Include\stm32f3xx.h)(0x67DB402E)
+I (C:\Users\brend\AppData\Local\Arm\Packs\Keil\STM32F3xx_DFP\2.2.2\Drivers\CMSIS\Device\ST\STM32F3xx\Include\stm32f303x8.h)(0x67DB402E)
+I (C:\Users\brend\AppData\Local\Arm\Packs\ARM\CMSIS\6.1.0\CMSIS\Core\Include\core_cm4.h)(0x664C4908)
+I (C:\Users\brend\AppData\Local\Arm\Packs\Keil\STM32F3xx_DFP\2.2.2\Drivers\CMSIS\Device\ST\STM32F3xx\Include\system_stm32f3xx.h)(0x67DB402E)
+F (.\usart.c)(0x67E29758)(-xc -std=c99 --target=arm-arm-none-eabi -mcpu=cortex-m4 -mfpu=fpv4-sp-d16 -mfloat-abi=hard -c-fno-rtti -funsigned-char -fshort-enums -fshort-wchar-D__EVAL -gdwarf-4 -O0 -ffunction-sections -Wno-packed -Wno-missing-variable-declarations -Wno-missing-prototypes -Wno-missing-noreturn -Wno-sign-conversion -Wno-nonportable-include-path -Wno-reserved-id-macro -Wno-unused-macros -Wno-documentation-unknown-command -Wno-documentation -Wno-license-management -Wno-parentheses-equality -Wno-reserved-identifier-I./RTE/_Target_1-IC:/Users/brend/AppData/Local/Arm/Packs/ARM/CMSIS/6.1.0/CMSIS/Core/Include-IC:/Users/brend/AppData/Local/Arm/Packs/Keil/STM32F3xx_DFP/2.2.2/Drivers/CMSIS/Device/ST/STM32F3xx/Include-D__UVISION_VERSION="542" -DSTM32F303x8 -D_RTE_-o ./objects/usart.o -MMD)
+I (usart.h)(0x67E29758)
+I (main.h)(0x67E29758)
+I (C:\Users\brend\AppData\Local\Arm\Packs\Keil\STM32F3xx_DFP\2.2.2\Drivers\CMSIS\Device\ST\STM32F3xx\Include\stm32f3xx.h)(0x67DB402E)
+I (C:\Users\brend\AppData\Local\Arm\Packs\Keil\STM32F3xx_DFP\2.2.2\Drivers\CMSIS\Device\ST\STM32F3xx\Include\stm32f303x8.h)(0x67DB402E)
+I (C:\Users\brend\AppData\Local\Arm\Packs\ARM\CMSIS\6.1.0\CMSIS\Core\Include\core_cm4.h)(0x664C4908)
+I (C:\Users\brend\AppData\Local\Arm\Packs\Keil\STM32F3xx_DFP\2.2.2\Drivers\CMSIS\Device\ST\STM32F3xx\Include\system_stm32f3xx.h)(0x67DB402E)
+F (.\systick_delay.c)(0x67E29758)(-xc -std=c99 --target=arm-arm-none-eabi -mcpu=cortex-m4 -mfpu=fpv4-sp-d16 -mfloat-abi=hard -c-fno-rtti -funsigned-char -fshort-enums -fshort-wchar-D__EVAL -gdwarf-4 -O0 -ffunction-sections -Wno-packed -Wno-missing-variable-declarations -Wno-missing-prototypes -Wno-missing-noreturn -Wno-sign-conversion -Wno-nonportable-include-path -Wno-reserved-id-macro -Wno-unused-macros -Wno-documentation-unknown-command -Wno-documentation -Wno-license-management -Wno-parentheses-equality -Wno-reserved-identifier-I./RTE/_Target_1-IC:/Users/brend/AppData/Local/Arm/Packs/ARM/CMSIS/6.1.0/CMSIS/Core/Include-IC:/Users/brend/AppData/Local/Arm/Packs/Keil/STM32F3xx_DFP/2.2.2/Drivers/CMSIS/Device/ST/STM32F3xx/Include-D__UVISION_VERSION="542" -DSTM32F303x8 -D_RTE_-o ./objects/systick_delay.o -MMD)
+I (C:\Users\brend\AppData\Local\Arm\Packs\Keil\STM32F3xx_DFP\2.2.2\Drivers\CMSIS\Device\ST\STM32F3xx\Include\stm32f3xx.h)(0x67DB402E)
+I (C:\Users\brend\AppData\Local\Arm\Packs\Keil\STM32F3xx_DFP\2.2.2\Drivers\CMSIS\Device\ST\STM32F3xx\Include\stm32f303x8.h)(0x67DB402E)
+I (C:\Users\brend\AppData\Local\Arm\Packs\ARM\CMSIS\6.1.0\CMSIS\Core\Include\core_cm4.h)(0x664C4908)
+I (C:\Users\brend\AppData\Local\Arm\Packs\Keil\STM32F3xx_DFP\2.2.2\Drivers\CMSIS\Device\ST\STM32F3xx\Include\system_stm32f3xx.h)(0x67DB402E)
+I (systick_delay.h)(0x67E29758)
+I (PWR.h)(0x67E29758)
+F (.\pwm.c)(0x67E29758)(-xc -std=c99 --target=arm-arm-none-eabi -mcpu=cortex-m4 -mfpu=fpv4-sp-d16 -mfloat-abi=hard -c-fno-rtti -funsigned-char -fshort-enums -fshort-wchar-D__EVAL -gdwarf-4 -O0 -ffunction-sections -Wno-packed -Wno-missing-variable-declarations -Wno-missing-prototypes -Wno-missing-noreturn -Wno-sign-conversion -Wno-nonportable-include-path -Wno-reserved-id-macro -Wno-unused-macros -Wno-documentation-unknown-command -Wno-documentation -Wno-license-management -Wno-parentheses-equality -Wno-reserved-identifier-I./RTE/_Target_1-IC:/Users/brend/AppData/Local/Arm/Packs/ARM/CMSIS/6.1.0/CMSIS/Core/Include-IC:/Users/brend/AppData/Local/Arm/Packs/Keil/STM32F3xx_DFP/2.2.2/Drivers/CMSIS/Device/ST/STM32F3xx/Include-D__UVISION_VERSION="542" -DSTM32F303x8 -D_RTE_-o ./objects/pwm.o -MMD)
+I (C:\Users\brend\AppData\Local\Arm\Packs\Keil\STM32F3xx_DFP\2.2.2\Drivers\CMSIS\Device\ST\STM32F3xx\Include\stm32f3xx.h)(0x67DB402E)
+I (C:\Users\brend\AppData\Local\Arm\Packs\Keil\STM32F3xx_DFP\2.2.2\Drivers\CMSIS\Device\ST\STM32F3xx\Include\stm32f303x8.h)(0x67DB402E)
+I (C:\Users\brend\AppData\Local\Arm\Packs\ARM\CMSIS\6.1.0\CMSIS\Core\Include\core_cm4.h)(0x664C4908)
+I (C:\Users\brend\AppData\Local\Arm\Packs\Keil\STM32F3xx_DFP\2.2.2\Drivers\CMSIS\Device\ST\STM32F3xx\Include\system_stm32f3xx.h)(0x67DB402E)
+I (pwm.h)(0x67E29758)
+F (.\PWR.h)(0x67E29758)()
+F (.\PLL_Config.h)(0x67E29758)()
+F (.\pwm.h)(0x67E29758)()
+F (.\adc.h)(0x67E29757)()
+F (.\leds.h)(0x67E29757)()
+F (.\main.h)(0x67E29758)()
+F (.\systick_delay.h)(0x67E29758)()
+F (.\usart.h)(0x67E29758)()
+F (RTE/Device/STM32F303K8Tx/startup_stm32f303x8.s)(0x67E2975A)(--cpu Cortex-M4.fp.sp --pd "__EVAL SETA 1" -g --diag_suppress=A1950W-I.\RTE\_Target_1-IC:\Users\brend\AppData\Local\Arm\Packs\ARM\CMSIS\6.1.0\CMSIS\Core\Include-IC:\Users\brend\AppData\Local\Arm\Packs\Keil\STM32F3xx_DFP\2.2.2\Drivers\CMSIS\Device\ST\STM32F3xx\Include--pd "__UVISION_VERSION SETA 542"--pd "STM32F303x8 SETA 1"--pd "_RTE_ SETA 1"--list .\listings\startup_stm32f303x8.lst--xref -o .\objects\startup_stm32f303x8.o--depend .\objects\startup_stm32f303x8.d)
+F (RTE/Device/STM32F303K8Tx/system_stm32f3xx.c)(0x67E2975A)(-xc -std=c99 --target=arm-arm-none-eabi -mcpu=cortex-m4 -mfpu=fpv4-sp-d16 -mfloat-abi=hard -c-fno-rtti -funsigned-char -fshort-enums -fshort-wchar-D__EVAL -gdwarf-4 -O0 -ffunction-sections -Wno-packed -Wno-missing-variable-declarations -Wno-missing-prototypes -Wno-missing-noreturn -Wno-sign-conversion -Wno-nonportable-include-path -Wno-reserved-id-macro -Wno-unused-macros -Wno-documentation-unknown-command -Wno-documentation -Wno-license-management -Wno-parentheses-equality -Wno-reserved-identifier-I./RTE/_Target_1-IC:/Users/brend/AppData/Local/Arm/Packs/ARM/CMSIS/6.1.0/CMSIS/Core/Include-IC:/Users/brend/AppData/Local/Arm/Packs/Keil/STM32F3xx_DFP/2.2.2/Drivers/CMSIS/Device/ST/STM32F3xx/Include-D__UVISION_VERSION="542" -DSTM32F303x8 -D_RTE_-o ./objects/system_stm32f3xx.o -MMD)
+I (C:\Users\brend\AppData\Local\Arm\Packs\Keil\STM32F3xx_DFP\2.2.2\Drivers\CMSIS\Device\ST\STM32F3xx\Include\stm32f3xx.h)(0x67DB402E)
+I (C:\Users\brend\AppData\Local\Arm\Packs\Keil\STM32F3xx_DFP\2.2.2\Drivers\CMSIS\Device\ST\STM32F3xx\Include\stm32f303x8.h)(0x67DB402E)
+I (C:\Users\brend\AppData\Local\Arm\Packs\ARM\CMSIS\6.1.0\CMSIS\Core\Include\core_cm4.h)(0x664C4908)
+I (C:\Users\brend\AppData\Local\Arm\Packs\Keil\STM32F3xx_DFP\2.2.2\Drivers\CMSIS\Device\ST\STM32F3xx\Include\system_stm32f3xx.h)(0x67DB402E)
