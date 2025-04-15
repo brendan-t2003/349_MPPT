@@ -1,7 +1,7 @@
 clc;
 clear;
 
-% model pv curve
+% model pv values (estimations)
 Voc = 18.5;      % Voc
 Isc = 0.52;     % Isc
 Vmpp = 15.9;     % voltage at MPP (LOOSELY RELATED TO THE PANEL OBSERVATIONS FROM DAVIDS LABS)
